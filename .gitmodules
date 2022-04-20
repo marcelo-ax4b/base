@@ -1,4 +1,0 @@
-[submodule "sub_base"]
-	path = sub_base
-	url = git@github.com:marcelo-ax4b/sub_base.git
-	branch = main
